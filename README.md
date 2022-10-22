@@ -1,5 +1,5 @@
 # Girlfriend-Whisperer
-This is an easy python project I made when I first started coding. You can ask this program any question about your relationship and it will respond to you
+This is an easy python AI project I made when I first started coding. You can ask this program any question about your relationship and it will respond to you
 
 Run the program, and then type in the problem you have, such as:
 ```
